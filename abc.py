@@ -1,0 +1,13 @@
+c=12
+print(c)
+b=1.2
+print(b)
+jaipur="Rajasthan"
+print(jaipur)
+x=34
+print(x)
+x=3.4
+print(x)
+a=1.2
+a=12
+print(a)
